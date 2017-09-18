@@ -211,10 +211,11 @@
     color: #fff; 
     margin-bottom: 1%;
     font-family: 'Anton', sans-serif;
+     text-shadow: 2px 2px #6e6e6e;
 }
 
 #slideTxt01 p{
-    color: #db0011;
+    color: #f24e43;
     font-size: 1.2em !important;
    
 }
@@ -225,6 +226,7 @@
     opacity: 0;
     position: absolute;
     z-index: 999;
+    
 
     
 }
@@ -233,11 +235,12 @@
     color: #fff; 
     margin-bottom: 1%;
     font-family: 'Anton', sans-serif;
+        text-shadow: 2px 2px #6e6e6e;
 }
 
 #slideTxt02 p{
     font-size: 1.2em !important;
-    color: #db0011;
+        color: #f24e43;
    
 }
 

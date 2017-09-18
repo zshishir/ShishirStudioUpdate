@@ -5,12 +5,12 @@ jQuery('document').ready(function($){
         
  new ScrollMagic.Scene({
     triggerElement:'.biography',
-     triggerHook:0
+     //triggerHook:0
  
         
         
     })
-						.setPin(".biography")
+						//.setPin(".biography")
 						//.addIndicators({name: "2 (duration: 0)"}) // add indicators (requires plugin)
 						.addTo(controller);
       
@@ -179,6 +179,7 @@ var skillAnimation = new TimelineMax()
     
     
 });
+
 
 
 
